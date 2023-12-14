@@ -31,12 +31,12 @@ The last three digits, xx.xxx.xxx.x-xxx.(000) indicate Taxpayer Status:
 
 Output example if the NPWP is valid:
 
-        Kode seri NPWP valid!
-        Identitas Wajib Pajak: 01 Wajib Pajak Pengusaha
-        Nomor Registrasi: 885.434
-        Alat Pengaman: 4
-        Kode KPP: 215
-        Status Wajib Pajak: 000
+    Kode seri NPWP valid!
+    Identitas Wajib Pajak: 01 Wajib Pajak Pengusaha
+    Nomor Registrasi: 885.434
+    Alat Pengaman: 4
+    Kode KPP: 215
+    Status Wajib Pajak: 000
 
 If it is invalid, a notification will appear according to the reason: 
 
