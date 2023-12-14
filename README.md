@@ -5,7 +5,7 @@ This repository contains a Python Mini Project (Coding Challenge) on NPWP Validi
 
 ## NPWP Criteria
 
-NPWP has a serial code with 15 numbers, which uses the following format: 00.000.000.0-000.000.
+NPWP has a serial code with 15 numbers, which uses the following format: ***00.000.000.0-000.000***.
 
 The first two digits, (00).xxx.xxx.x-xxx.xxx indicate the Taxpayer's Identity:
 
@@ -29,7 +29,7 @@ The last three digits, xx.xxx.xxx.x-xxx.(000) indicate Taxpayer Status:
 
 Output example if the NPWP is valid:
 
-    Output: Kode seri NPWP valid!
+        Kode seri NPWP valid!
         Identitas Wajib Pajak: 01 Wajib Pajak Pengusaha
         Nomor Registrasi: 885.434
         Alat Pengaman: 4
