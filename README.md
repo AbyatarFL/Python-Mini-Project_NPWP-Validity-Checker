@@ -16,6 +16,8 @@ The first two digits, (00).xxx.xxx.x-xxx.xxx indicate the Taxpayer's Identity:
 
 The next six digits, xx.(000,000).x-xxx.xxx indicate the Registration Number given by Kantor Pusat Direktorat Jenderal Pajak to Kantor Pelayanan Pajak (KPP).
 
+The next digit xx.xxx.xxx.(0)-xxx.xxx use as a security tool to avoid forgery or errors in the NPWP.
+
 The next three digits, xx.xx.xxx.x-(000).xxx are the KPP Code. For example, if the code is 015, it means that the NPWP was issued at KPP with code 015.
 
 The last three digits, xx.xxx.xxx.x-xxx.(000) indicate Taxpayer Status:
